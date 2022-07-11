@@ -3320,7 +3320,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var theme_ui__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(theme_ui__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react_reveal_Zoom__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-reveal/Zoom */ "react-reveal/Zoom");
 /* harmony import */ var react_reveal_Zoom__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_reveal_Zoom__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\components\\SectionHeading.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\components\\SectionHeading.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -3435,7 +3435,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var theme_ui__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(theme_ui__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react_reveal_Slide__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-reveal/Slide */ "react-reveal/Slide");
 /* harmony import */ var react_reveal_Slide__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_reveal_Slide__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\components\\cards\\Service.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\components\\cards\\Service.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -3562,7 +3562,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_icons_fa__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_icons_fa__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var react_icons_si__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react-icons/si */ "react-icons/si");
 /* harmony import */ var react_icons_si__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(react_icons_si__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\components\\cards\\TeamMember.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\components\\cards\\TeamMember.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -3721,7 +3721,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var theme_ui__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! theme-ui */ "theme-ui");
 /* harmony import */ var theme_ui__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(theme_ui__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\components\\cards\\TestimonialCard.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\components\\cards\\TestimonialCard.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -3862,7 +3862,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var theme_ui__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(theme_ui__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var rc_drawer__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! rc-drawer */ "rc-drawer");
 /* harmony import */ var rc_drawer__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(rc_drawer__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\components\\drawer.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\components\\drawer.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function _extends() { _extends = Object.assign ? Object.assign.bind() : function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -3974,7 +3974,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _footer_data__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./footer.data */ "./src/components/footer/footer.data.js");
 /* harmony import */ var assets_techvestors_logo_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! assets/techvestors-logo.png */ "./src/assets/techvestors-logo.png");
 /* harmony import */ var assets_techvestors_logo_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(assets_techvestors_logo_png__WEBPACK_IMPORTED_MODULE_5__);
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\components\\footer\\Footer.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\components\\footer\\Footer.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -4275,7 +4275,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var components_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! components/link */ "./src/components/link.js");
 /* harmony import */ var polished__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! polished */ "polished");
 /* harmony import */ var polished__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(polished__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\components\\footer\\widget.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\components\\footer\\widget.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -4397,7 +4397,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_hook_form__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_hook_form__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\components\\form\\ContactUs.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\components\\form\\ContactUs.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement;
 
 function _extends() { _extends = Object.assign ? Object.assign.bind() : function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -4795,7 +4795,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _header_career__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./header.career */ "./src/components/header/header.career.js");
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! next/router */ "next/router");
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_10__);
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\components\\header\\header.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\components\\header\\header.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -5028,7 +5028,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_icons_fa__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(react_icons_fa__WEBPACK_IMPORTED_MODULE_7__);
 /* harmony import */ var _header_data__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./header.data */ "./src/components/header/header.data.js");
 /* harmony import */ var _header_career__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./header.career */ "./src/components/header/header.career.js");
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\components\\header\\mobile-drawer.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\components\\header\\mobile-drawer.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -5347,7 +5347,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_messenger_customer_chat__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! react-messenger-customer-chat */ "react-messenger-customer-chat");
 /* harmony import */ var react_messenger_customer_chat__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(react_messenger_customer_chat__WEBPACK_IMPORTED_MODULE_5__);
 /* harmony import */ var _form_ContactUs__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./form/ContactUs */ "./src/components/form/ContactUs.js");
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\components\\layout.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\components\\layout.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 /** @jsx jsx */
@@ -5455,7 +5455,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var theme_ui__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(theme_ui__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\components\\link.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\components\\link.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -5538,7 +5538,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var theme_ui__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(theme_ui__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\components\\logo.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\components\\logo.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -5679,7 +5679,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "useCreateContext", function() { return useCreateContext; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\contexts\\create-context.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\contexts\\create-context.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function useCreateContext(defaultValue, reducer) {
@@ -5755,7 +5755,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _drawer_context__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./drawer.context */ "./src/contexts/drawer/drawer.context.js");
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\contexts\\drawer\\drawer.provider.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\contexts\\drawer\\drawer.provider.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); enumerableOnly && (symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; })), keys.push.apply(keys, symbols); } return keys; }
@@ -5825,7 +5825,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! next/head */ "next/head");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_5__);
 /* harmony import */ var sections__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! sections */ "./src/sections/index.js");
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\pages\\index.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\pages\\index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -5989,7 +5989,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_scroll__WEBPACK_IMPORTED_MODULE_12___default = /*#__PURE__*/__webpack_require__.n(react_scroll__WEBPACK_IMPORTED_MODULE_12__);
 /* harmony import */ var react_reveal_Slide__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! react-reveal/Slide */ "react-reveal/Slide");
 /* harmony import */ var react_reveal_Slide__WEBPACK_IMPORTED_MODULE_13___default = /*#__PURE__*/__webpack_require__.n(react_reveal_Slide__WEBPACK_IMPORTED_MODULE_13__);
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\sections\\hero.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\sections\\hero.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -6388,7 +6388,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var assets_service_service2_png__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(assets_service_service2_png__WEBPACK_IMPORTED_MODULE_6__);
 /* harmony import */ var assets_service_service3_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! assets/service/service3.png */ "./src/assets/service/service3.png");
 /* harmony import */ var assets_service_service3_png__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(assets_service_service3_png__WEBPACK_IMPORTED_MODULE_7__);
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\sections\\services.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\sections\\services.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -6519,7 +6519,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var components_cards_TeamMember__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! components/cards/TeamMember */ "./src/components/cards/TeamMember.js");
 /* harmony import */ var react_reveal_Slide__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react-reveal/Slide */ "react-reveal/Slide");
 /* harmony import */ var react_reveal_Slide__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react_reveal_Slide__WEBPACK_IMPORTED_MODULE_11__);
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\sections\\team.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\sections\\team.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -6920,7 +6920,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var assets_gaurav_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! assets/gaurav.png */ "./src/assets/gaurav.png");
 /* harmony import */ var assets_gaurav_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(assets_gaurav_png__WEBPACK_IMPORTED_MODULE_5__);
 /* harmony import */ var components_cards_TestimonialCard__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! components/cards/TestimonialCard */ "./src/components/cards/TestimonialCard.js");
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\sections\\testimonials.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\sections\\testimonials.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function _extends() { _extends = Object.assign ? Object.assign.bind() : function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -7118,7 +7118,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var assets_whyus_erp_png__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(assets_whyus_erp_png__WEBPACK_IMPORTED_MODULE_6__);
 /* harmony import */ var react_reveal_Slide__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! react-reveal/Slide */ "react-reveal/Slide");
 /* harmony import */ var react_reveal_Slide__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(react_reveal_Slide__WEBPACK_IMPORTED_MODULE_7__);
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\sections\\whyus.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\sections\\whyus.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -7396,7 +7396,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var assets_arrowOdd_svg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(assets_arrowOdd_svg__WEBPACK_IMPORTED_MODULE_5__);
 /* harmony import */ var assets_arrowEven_svg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! assets/arrowEven.svg */ "./src/assets/arrowEven.svg");
 /* harmony import */ var assets_arrowEven_svg__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(assets_arrowEven_svg__WEBPACK_IMPORTED_MODULE_6__);
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\sections\\workflow.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\sections\\workflow.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 

@@ -157,7 +157,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var rc_drawer_assets_index_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(rc_drawer_assets_index_css__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var typeface_dm_sans__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! typeface-dm-sans */ "./node_modules/typeface-dm-sans/index.css");
 /* harmony import */ var typeface_dm_sans__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(typeface_dm_sans__WEBPACK_IMPORTED_MODULE_4__);
-var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Pictures\\Desktop\\tech-app-master\\tech-app-master\\src\\pages\\_app.js";
+var _jsxFileName = "C:\\Users\\goura\\OneDrive\\Documents\\GitHub\\techvestors.github.io\\src\\pages\\_app.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
