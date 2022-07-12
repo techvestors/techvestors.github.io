@@ -72,7 +72,7 @@ const data = [
   {
     id: 4,
     avatar: avatar3,
-    name: 'Vaubhav Sinha',
+    name: 'Vaibhav Sinha',
     designation: 'Web Developer',
     socialLinks: [
       {
@@ -132,7 +132,7 @@ const data = [
   {
     id: 7,
     avatar: avatar3,
-    name: 'Mr. Pratap',
+    name: 'Mr. Rudra Pratap',
     designation: 'intern',
     socialLinks: [
       {
