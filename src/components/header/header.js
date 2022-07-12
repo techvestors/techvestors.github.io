@@ -59,7 +59,7 @@ export default function Header({ className }) {
           {router.pathname === '/career' && (
             <A
               className="join__us"
-              href="/www.linkedin.com"
+              href="https://forms.gle/yQcb37ecNB24Biam9"
               sx={{
                 textDecoration: 'none',
               }}
