@@ -113,7 +113,7 @@ const data = [
     id: 6,
     avatar: avatar2,
     name: 'Sudreesha Das',
-    designation: 'intern',
+    designation: 'Intern',
     socialLinks: [
       {
         name: 'twitter',
@@ -133,7 +133,7 @@ const data = [
     id: 7,
     avatar: avatar3,
     name: 'Mr. Rudra Pratap',
-    designation: 'intern',
+    designation: 'ERP Developer Lead',
     socialLinks: [
       {
         name: 'twitter',
@@ -153,7 +153,7 @@ const data = [
     id: 8,
     avatar: avatar1,
     name: 'Shahbaz Alam',
-    designation: 'Software Develoepr',
+    designation: 'Software Developer',
     socialLinks: [
       {
         name: 'twitter',
