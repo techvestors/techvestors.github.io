@@ -40,7 +40,7 @@ export default function Footer() {
             ))}
           </Box>
           <Text sx={styles.footer.copyright}>
-            © {new Date().getFullYear()} TechVestors. All rights reserved.
+            © {new Date().getFullYear()} techvestors. All rights reserved.
           </Text>
         </Box>
       </Container>

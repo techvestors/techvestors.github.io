@@ -13,19 +13,19 @@ const data = [
     id: 1,
     icon: icon1,
     title: 'Marketing & advertising',
-    description: `Lorem ipsum Fuga inventore quam odio numquam veniam?`,
+    description: `Get your business recognized throught the means of digital marketing`,
   },
   {
     id: 3,
     icon: icon2,
     title: 'Web development',
-    description: `Lorem ipsum Fuga inventore quam odio numquam veniam?`,
+    description: `Make you business accessable to your customer with ease`,
   },
   {
     id: 4,
     icon: icon3,
     title: 'Mobile Development',
-    description: `Lorem ipsum Fuga inventore quam odio numquam veniam?`,
+    description: `Find soultions to your business problems and turn it into an app`,
   },
 ];
 
