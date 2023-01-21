@@ -36,7 +36,7 @@ const Services = () => {
         <SectionHeading
           sx={styles.heading}
           title="Our Service"
-          description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis sequi similique voluptatum inventore, atque praesentium?"
+          description="We help you find the cheapest and simplest solutions to your business problems"
         />
         <Box sx={styles.contentWrapper}>
           {data?.map((item) => (
