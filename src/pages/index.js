@@ -14,11 +14,11 @@ export default function Home({ meta }) {
     },
     {
       property: `og:title`,
-      content: `Techvestors`,
+      content: `techvestors`,
     },
     {
       property: `og:description`,
-      content: `description`,
+      content: `Equip yourself with the tech of today with us.`,
     },
     {
       property: `og:type`,
