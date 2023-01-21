@@ -12,8 +12,8 @@ const data = [
   {
     id: 1,
     tabTitle: 'What we invest in?',
-    title: `We will turn your idea in the successful business model framework`,
-    description: `  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam accusamus aspernatur error voluptatem cupiditate.`,
+    title: `We call your software solutions as investment`,
+    description: `Tailor make software solutions for your business requirement at lowest pricings`,
     image: tabImage1,
     list: [
       'ERP System',
@@ -25,9 +25,9 @@ const data = [
   {
     id: 2,
     tabTitle: 'Why invest through us?',
-    title: `We will turn your idea in the successful business model framework`,
-    description: `  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam accusamus aspernatur error voluptatem cupiditate.`,
-    moreLink: '#explore-more',
+    title: `Your growth is our concern.`,
+    description: `When we develop applications for our clients, we dont see just an appication. We see it as an opportunity to collaborate with our clients for their growth.`,
+    moreLink: '',
     image: tabImage2,
     list: ['Growth', 'Trust', 'Collabration', 'Innovation'],
   },
