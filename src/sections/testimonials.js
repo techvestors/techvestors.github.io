@@ -14,7 +14,7 @@ import TestimonialsCard from 'components/cards/TestimonialCard';
 SwiperCore.use([Autoplay]);
 
 const TESTIMONIALS_DATA = [
-  [
+  /*[
     {
       image: testimonialsImage1,
       text: 'I would like to take this oppertunity to thank SA Places for the great service rendered to us and in particular Estelle. You got me the best place ever in just a few moments after I spoke to you.',
@@ -55,7 +55,7 @@ const TESTIMONIALS_DATA = [
       username: '@sudreesha',
       name: 'Miss Sudhreesa',
     },
-  ],
+  ],*/
 ];
 
 const Testimonials = () => {
