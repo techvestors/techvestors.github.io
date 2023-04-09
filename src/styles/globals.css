@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&display=swap');
+@import 'swiper/swiper.min.css';
+
+
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  font-family: 'DM Sans', sans-serif;
+  background: "#ffffff";
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+body:focus{
+  outline: none !important;
+}
+.stroke-text {
+  text-shadow: -1px 1px 0 #D3D3D3,
+    1px 1px 0 #D3D3D3,
+    1px -1px 0 #D3D3D3,
+    -1px -1px 0 #D3D3D3;
+}
+
+.swiper-pagination-bullet {
+  width: auto !important;
+  height: auto !important;
+  min-height: 50px !important;
+  text-align: center;
+  line-height: 20px;
+  color: #000000 !important;
+  background: transparent !important;
+  opacity: 1 !important;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+
+.what-section-swiper {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.what-section-swiper::-webkit-scrollbar {
+  display: none;
+}
+
+.my-custom-pagination-div {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.my-custom-pagination-div::-webkit-scrollbar {
+  display: none;
+}
+
+.swiper-pagination-bullet-active {
+
+  font-weight: 700 !important;
+  color: #fff;
+  background: #007aff;
+}
