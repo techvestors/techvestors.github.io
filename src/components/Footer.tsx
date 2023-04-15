@@ -60,7 +60,7 @@ const Footer = () => {
             header: "contact",
             subHeads: [
                 {
-                    title: "support@techvestors.com",
+                    title: "support@techvestors.tech",
                     link: "/"
                 },
                 {
