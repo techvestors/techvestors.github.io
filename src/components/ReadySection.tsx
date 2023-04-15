@@ -1,7 +1,9 @@
 import dynamic from "next/dynamic";
-const ButtonStyled =dynamic(()=>import("./ButtonStyled")) 
+import { useRouter } from "next/router";
+const ButtonStyled = dynamic(() => import("./ButtonStyled"))
 
 const ReadySection = () => {
+    const router = useRouter()
     return (
         <>
             <div className=" flex flex-col lg:gap-24 gap-14 w-full justify-center  items-center lg:px-[22rem] px-8 mb-32">
@@ -23,7 +25,7 @@ const ReadySection = () => {
                         </li>
                     </ul>
                 </div>
-                <ButtonStyled type={"primary"} text={"get started"} classes={"!px-5 !py-2"} handleClick={()=>{return ;}}/>
+                <ButtonStyled type={"primary"} text={"Enquire Now"} classes={"!px-5 !py-2"} handleClick={() => { return router.push('https://fr2iizdys3b.typeform.com/to/T23kcKoM'); }} />
             </div>
         </>
     )

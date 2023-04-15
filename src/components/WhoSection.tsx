@@ -2,8 +2,10 @@ import Image from 'next/image'
 import whoSection from "../assets/who-section.jpg"
 import { useEffect, useState } from 'react'
 import dynamic from 'next/dynamic'
+import { useRouter } from 'next/router'
 const ButtonStyled =dynamic(()=>import('./ButtonStyled')) 
 const WhoSection = () => {
+    const router = useRouter()
     const [width, setWidth] = useState<number>(460)
     useEffect(() => {
         window.innerWidth < 600 && setWidth(267)
@@ -29,7 +31,7 @@ const WhoSection = () => {
                 <Image src={whoSection} alt={""} width={width} height={width} />
             </div>
         </div>
-            <ButtonStyled text={'contact us'} type={'primary'} classes={'px-5 mx-auto mt-12 py-2 mb-24'} handleClick={() => { return; }} />
+            <ButtonStyled text={'Enquire Now'} type={'primary'} classes={'px-5 mx-auto mt-12 py-2 mb-24'} handleClick={() => { return router.push('https://fr2iizdys3b.typeform.com/to/T23kcKoM') }} />
         </>
     )
 }

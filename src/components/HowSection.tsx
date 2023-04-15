@@ -49,13 +49,14 @@ const HowSection = () => {
         },
     };
     const xCoord: any[] = [
-
+        33, 241.40625, 384.1145935058594, 551.8646240234375, 770.9583740234375
     ]
-    useEffect(() => {
-        for (let i = 0; i < sectionRefs.length; i++) {
-            xCoord.push(document.getElementById(`${i}`)?.getBoundingClientRect().left)
-        }
-    }, [])
+    // useEffect(() => {
+    //     for (let i = 0; i < sectionRefs.length; i++) {
+    //         xCoord.push(document.getElementById(`${i}`)?.getBoundingClientRect().left)
+    //     }
+    //     console.log(xCoord,"how section")
+    // }, [])
     return (
         <div className="flex flex-col-reverse lg:flex-row lg:px-64  mb-56 mt-16">
             <div ref={HowPaginationRef} className="my-custom-pagination-div h-auto mt-12 px-8 lg:w-screen !lg:overflow-x-scroll overflow-y-hidden w-auto text-lg lg:text-2xl text-black flex whitespace-nowrap lg:flex-col lg:justify-center gap-12 lg:gap-[4.5rem] items-start cursor-pointer ">

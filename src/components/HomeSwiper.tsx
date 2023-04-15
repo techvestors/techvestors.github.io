@@ -63,19 +63,12 @@ const HomeSwiper = () => {
             return '<span id="' + index + '" class="' + className + '">' + swiperArray[index].title + "</span>";
         },
     };
-    const xCoord: any[] = [
-
-    ]
-    useEffect(() => {
-        for (let i = 0; i < swiperArray.length; i++) {
-            // const element = array[i];
-            xCoord.push(document.getElementById(`${i}`)?.getBoundingClientRect().left)
-        }
-    }, [])
+    const xCoord: any[] = [33, 241.40625, 384.1145935058594, 551.8646240234375, 770.9583740234375, 923, 1129.0833740234375]
+  
     return (
         <>
             <div ref={whatPaginationRef} className="what-section-swiper  h-auto lg:w-full w-screen whitespace-nowrap overflow-x-scroll lg:overflow-hidden  lg:justify-center items-center text-[18px] flex md:mb-[96px] px-[29px] py-4 gap-6 "></div>
-            <div className="relative h-auto min-h-[400px] mb-32">
+            <div className="relative h-auto min-h-[450px] mb-32">
                 <Swiper
                     autoplay={{
                         delay: 6000,
@@ -89,7 +82,7 @@ const HomeSwiper = () => {
                 >
                     {swiperArray.map((swiper: any, i: number) => {
                         return (
-                            <SwiperSlide key={`homeSwiper${i}`} className="bg-white min-h-[400px] ">
+                            <SwiperSlide key={`homeSwiper${i}`} className="bg-white min-h-[450px] md:min-h-[520px] lg:min-h-[400px]">
                                 {/* <div className={`absolute min-h-[500px] h-auto bg-white ${swiper.title == swiperNav ? "transition-opacity duration-500 delay-300 opacity-100" : "transition-opacity duration-500 opacity-0"}`}  > */}
                                 <SwiperSlides text={swiper.text} title={swiper.title} src={swiper.src} />
                                 {/* </div> */}

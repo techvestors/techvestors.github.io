@@ -1,17 +1,19 @@
 import Image from "next/image"
 import ButtonStyled from "./ButtonStyled"
 import { useEffect, useState } from "react"
+import { useRouter } from "next/router"
 
 const SwiperSlides = (props: { src?: any, title: string, text?: string, type?: string }) => {
-    const [HowSecWidth,setHowSecWidth]=useState<number>(300)
-    useEffect(()=>{
-        window.innerWidth<600&&setHowSecWidth(100)
-    },[])
+    const router = useRouter()
+    const [HowSecWidth, setHowSecWidth] = useState<number>(300)
+    useEffect(() => {
+        window.innerWidth < 600 && setHowSecWidth(100)
+    }, [])
     const { src, title, text, type } = props
     if (type === "how-section") {
         return (
             <>
-                <div className="lg:min-h-[30rem] min-h-[240px] bg-white h-auto w-full flex-col justify-between flex gap-16 ">
+                <div className="lg:min-h-[30rem] min-h-[363px] bg-white h-auto w-full flex-col justify-between flex gap-16 ">
                     <div className="mx-auto lg:h-[19rem] w-full h-auto lg:w-[19rem] flex justify-center items-center text-[100px] text-black">
                         <Image src={src} alt={title} width={HowSecWidth} height={HowSecWidth} />
                     </div>
@@ -36,7 +38,7 @@ const SwiperSlides = (props: { src?: any, title: string, text?: string, type?: s
                         <p className="text-[#5E5E5E] text-[18px] font-[400]">
                             {text}
                         </p>
-                        <ButtonStyled text={"get started"} classes={"px-[18px] py-[8px]"} type={"primary"} handleClick={() => { console.log('click handler') }} />
+                        <ButtonStyled text={"Enquire Now"} classes={"px-[18px] py-[8px]"} type={"primary"} handleClick={() => { router.push('https://fr2iizdys3b.typeform.com/to/T23kcKoM') }} />
                     </div>
                 </div>
             </>
