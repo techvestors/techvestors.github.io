@@ -1,7 +1,7 @@
 import logo from "../assets/Logo/logo-white.png"
 import Image from "next/image"
 import Link from "next/link"
-import { Facebook, Github, Instagram, Location, Twitter, Whatsapp } from "./FooterLogo"
+import { Facebook, Github, Instagram, Linkedin, Location, Twitter, Whatsapp } from "./FooterLogo"
 import { useEffect, useState } from "react"
 const Footer = () => {
     const [isMobile, setIsMobile] = useState(false)
@@ -86,6 +86,9 @@ const Footer = () => {
                                 </a>
                                 <a href="https://www.facebook.com/profile.php?id=100084005558530&mibextid=ZbWKwL" className="h-[4vw] w-[4vw] md:h-5 md:w-5">
                                     <Facebook />
+                                </a>
+                                <a href="https://www.linkedin.com/company/techvestors" className="h-[4vw] w-[4vw] md:h-5 md:w-5">
+                                    <Linkedin />
                                 </a>
                                 <a href="https://github.com/techvestors/techvestors.tech" className="h-[4vw] w-[4vw] md:h-5 md:w-5">
                                     {/* icon for github */}

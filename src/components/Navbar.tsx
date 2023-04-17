@@ -24,8 +24,8 @@ const Navbar = () => {
         //     link: "/"
         // },
         {
-            text: "enquire now",
-            link: "https://fr2iizdys3b.typeform.com/to/T23kcKoM"
+            text: "work with us",
+            link: "https://fr2iizdys3b.typeform.com/to/e4nuAjp1"
         }
     ]
     return (
@@ -54,7 +54,7 @@ const Navbar = () => {
                         )
                     })}
                 </ul>
-                <ButtonStyled classes={"lg:flex hidden"} handleClick={() => { return router.push('https://fr2iizdys3b.typeform.com/to/e4nuAjp1') }} text={'work with us'} type={'primary'} />
+                <ButtonStyled classes={"lg:flex hidden"} handleClick={() => { return router.push('https://fr2iizdys3b.typeform.com/to/T23kcKoM') }} text={'enquire now'} type={'primary'} />
                 <button onClick={()=>setHamburger(!hamburger)} className=" lg:hidden flex h-7 w-7">
                     <svg fill="none" viewBox="0 0 15 15" height="100%" width="100%" >
                         <path
@@ -89,7 +89,7 @@ const Navbar = () => {
                         )
                     })}
                 </ul>
-                <ButtonStyled classes={"flex lg:hidden px-5 py-2 mt-10 ml-[1.15rem]  "} handleClick={() => { return router.push('https://fr2iizdys3b.typeform.com/to/e4nuAjp1') }} text={'work with us'} type={'secondary'} />
+                <ButtonStyled classes={"flex lg:hidden px-5 py-2 mt-10 ml-[1.15rem]  "} handleClick={() => { return router.push('https://fr2iizdys3b.typeform.com/to/T23kcKoM') }} text={'Enquire now'} type={'secondary'} />
             </div>
         </>
     )
