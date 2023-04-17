@@ -18,8 +18,8 @@ const HeroHeader = () => {
                     </p>
                 </section>
                 <section className="w-full justify-center items-center mt-[40px] mb-[65px]  h-auto flex gap-[16px] mx-auto">
-                    <ButtonStyled type={"primary"} classes={"px-[33px] py-[8px]"} text={"Enquire Now"} handleClick={() => { router.push('https://fr2iizdys3b.typeform.com/to/T23kcKoM') }} />
-                    <ButtonStyled type={"secondary"} classes={"px-[33px] py-[8px]"} text={"work with us"} handleClick={() => { router.push('https://fr2iizdys3b.typeform.com/to/e4nuAjp1') }} />
+                    <ButtonStyled type={"primary"} classes={"px-[33px] py-[8px]"} text={"work with us"} handleClick={() => { router.push('https://fr2iizdys3b.typeform.com/to/e4nuAjp1') }} />
+                    <ButtonStyled type={"secondary"} classes={"px-[33px] py-[8px]"} text={"Enquire Now"} handleClick={() => { router.push('https://fr2iizdys3b.typeform.com/to/T23kcKoM') }} />
                 </section>
                 <div>
                     <HeroImage />

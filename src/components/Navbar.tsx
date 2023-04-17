@@ -24,7 +24,7 @@ const Navbar = () => {
         //     link: "/"
         // },
         {
-            text: "contact",
+            text: "enquire now",
             link: "https://fr2iizdys3b.typeform.com/to/T23kcKoM"
         }
     ]
